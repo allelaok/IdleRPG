@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\UnrealProjects\\Tmp\\Source\\Tmp\\Tmp.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\UnrealProjects\\Tmp\\.vscode\\compileCommands_Tmp\\Tmp.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealProjects\\Tmp\\Source\\Tmp\\Tmp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\UnrealProjects\\Tmp\\.vscode\\compileCommands_Tmp\\Tmp.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealProjects\\Tmp\\Source\\Tmp\\Tmp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\UnrealProjects\\Tmp\\.vscode\\compileCommands_Tmp\\Tmp.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealProjects\\Tmp\\Source\\Tmp\\TmpGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\UnrealProjects\\Tmp\\.vscode\\compileCommands_Tmp\\Tmp.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\UnrealProjects\\Tmp\\Source\\Tmp\\TmpGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\UnrealProjects\\Tmp\\.vscode\\compileCommands_Tmp\\Tmp.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
